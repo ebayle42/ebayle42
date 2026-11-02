@@ -14,8 +14,8 @@ I am Enzo BAYLE--SOCHELEAU a 20 year old developer passionate about Formula 1 an
 ### My Projects
 Currently at 42 school I am going through the common core expanding my knowledge of the C language and learning Python
 
-My dream is to work as an embedded software developer for the Mercedes-AMG F1 Team
-### Mes passions 
+### My passions 
 I am passionate about motorsport with Mercedes-AMG and in Formula 1 with the Mercedes-AMG F1 Team and Kimi Antonelli AK12
 
+My dream is to work as an embedded software developer for the Mercedes-AMG F1 Team
 ![AMG](https://github.com/ebayle42/ebayle42/blob/main/mercedes_amg.gif)

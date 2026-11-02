@@ -4,7 +4,18 @@
 ### About me
 I am Enzo BAYLE--SOCHELEAU a 20 year old developer passionate about Formula 1 and Mercedes AMG in motorsport and a student at 42 Angoulême
 
-[![currently](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.discord_status&label=currently&color=brightgreen&logo=discord&logoColor=white)](https://discord.com/users/479765523064815616) ![playing](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.activities%5B%3F(%40.type%3D%3D0)%5D.name&label=playing&color=blueviolet) ![coding](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.activities%5B%3F(%40.name%3D%3D%27Visual%20Studio%20Code%27)%5D.details&label=coding&color=blue) ![listening to](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.spotify.song&label=listening%20to&logo=spotify&logoColor=white&color=1DB954)
+<p align="center">
+  <a href="https://discord.com/users/479765523064815616">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.discord_status&label=currently&color=brightgreen&logo=discord&logoColor=white" alt="currently" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.spotify.song&label=listening%20to&logo=spotify&logoColor=white&color=1DB954" alt="listening to" />
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/479765523064815616">
+    <img src="https://lanyard.cnrad.dev/api/479765523064815616?theme=dark&hideDiscrim=true&idleMessage=nothing%20rn" alt="Discord Presence" />
+  </a>
+</p>
 
 ### My Skills
 <a href="https://skillicons.dev">

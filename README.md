@@ -4,14 +4,14 @@
 ### About me
 I am Enzo BAYLE--SOCHELEAU a 20 year old developer passionate about Formula 1 and Mercedes AMG in motorsport and a student at 42 Angoulême
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/479765523064815616">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.discord_status&label=currently&color=brightgreen&logo=discord&logoColor=white" alt="currently" />
   </a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F479765523064815616&query=%24.data.spotify.song&label=listening%20to&logo=spotify&logoColor=white&color=1DB954" alt="listening to" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/479765523064815616">
     <img src="https://lanyard.cnrad.dev/api/479765523064815616?theme=dark&hideDiscrim=true&idleMessage=nothing%20rn" alt="Discord Presence" />
   </a>
